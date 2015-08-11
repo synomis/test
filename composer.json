@@ -1,0 +1,14 @@
+{
+	"name": "synomis/test",
+	"description": "this is a test packges",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Synology MIS",
+			"email": "tw_mis@synology.com"
+		}
+	],
+	"autoload": {
+        "psr-4": {"synomis\\": "src/"}
+    }
+}
